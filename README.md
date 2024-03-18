@@ -1,4 +1,5 @@
-![Banner](https://github.com/parikshitpagare/digital_clock_rtc/assets/80714882/67e8b2b3-157d-4bf5-af44-d6f87507777f)
+
+![Banner](https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/52aac55b-3805-4f54-a024-a568591d1c7f)
 
 <p align="center">
    <img src="https://img.shields.io/badge/F401-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" >
