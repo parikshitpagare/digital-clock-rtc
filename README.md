@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-A digital clock and calendar with alarm functionality developed on STM32 F401 (ARM Cortex M4) microcontroller using DS1307 RTC for time keeping. It includes a LCD based user interface to set time, date and alarm using interrupt based multiple push buttons.
+A digital clock and calendar with alarm functionality developed on STM32F401 (ARM Cortex-M4) microcontroller using DS1307 RTC for time keeping. It includes a LCD based user interface to set time, date and alarm using interrupt based multiple push buttons.
 </p>
 
 <br>
