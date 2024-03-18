@@ -2,7 +2,7 @@
 ![Banner](https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/52aac55b-3805-4f54-a024-a568591d1c7f)
 
 <p align="center">
-   <img src="https://img.shields.io/badge/F401-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" >
+   <img src="https://img.shields.io/badge/STM32F401-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" >
    <img src="https://img.shields.io/badge/-CORTEX M4-0091BD?style=for-the-badge&logo=Arm&logoColor=white">
    <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge" >
 </p>
