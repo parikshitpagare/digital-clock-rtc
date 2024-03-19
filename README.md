@@ -28,7 +28,7 @@ A digital clock and calendar with alarm functionality developed on STM32F401 (AR
 <br>
 
 <p align="center">
-	<img src="Docs/Overview.png" width="80%" height="80%">
+	<img src="Docs/overview.png" width="80%" height="80%">
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ A digital clock and calendar with alarm functionality developed on STM32F401 (AR
 <br>
 
 <p align="center">
-	<img src="Docs/Software Architechture.png" width="80%" height="80%">
+	<img src="Docs/software-architechture.png" width="80%" height="80%">
 </p>
 
 <p align="center">
