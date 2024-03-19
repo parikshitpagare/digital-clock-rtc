@@ -25,6 +25,8 @@ A digital clock and calendar with alarm functionality developed on STM32F401 (AR
 
 # System Overview
 
+<br>
+
 <p align="center">
 	<img src="Docs/Overview.png" width="80%" height="80%">
 </p>
