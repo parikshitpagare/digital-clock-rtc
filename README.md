@@ -183,7 +183,7 @@ The system is controlled and configured using 4 push buttons each of them having
 The main interface displays following characteristics,
 
 <p align="center">
-	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/304c997a-32ab-4c43-8d0e-97835844d7e4" width="50%" height="50%">
+	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/304c997a-32ab-4c43-8d0e-97835844d7e4" width="45%" height="45%">
 </p>
 
 - Clock mode which displays either **'24h>'** in 24h format or **'am/pm'** in 12h format.
@@ -207,7 +207,7 @@ The main interface displays following characteristics,
 - This interface enables the user to set the day, date and week.
   
 <p align="center">
-	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/9aff9f1a-95de-4e3c-90bd-9a02846f5f4a" width="80%" height="80%">
+	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/d94f5a51-301a-4783-a653-1d414f9569cb" width="45%" height="45%">
 </p>
 
 #### Set Alarm
@@ -217,7 +217,7 @@ The main interface displays following characteristics,
 - It remembers the previous set values enabling the user to know the exact time the alarm is set on.
 
 <p align="center">
-	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/9aff9f1a-95de-4e3c-90bd-9a02846f5f4a" width="80%" height="80%">
+	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/84c5b708-3aa0-47ca-abd3-8037c2292d52" width="90%" height="90%">
 </p>
 
 ## Alarm Implementation
@@ -226,7 +226,7 @@ The main interface displays following characteristics,
 - The alarm will stop automatically after 30sec or it can be stopped manually by using the dedicated push button.
 
 <p align="center">
-	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/9aff9f1a-95de-4e3c-90bd-9a02846f5f4a" width="80%" height="80%">
+	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/0d6df784-0ae4-4b00-ab1a-4eb6bc8deee8" width="80%" height="80%">
 </p>
 
 # Working 
