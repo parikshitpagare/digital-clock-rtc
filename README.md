@@ -136,6 +136,10 @@ The external components are integrated with the microcontroller by developing th
 
 The system is controlled and configured using 4 push buttons each of them having different functionality.
 
+<p align="center">
+	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/96e18b57-1d50-4b1f-afc9-199c2c23cdd4" width="85%" height="85%">
+</p>
+
 ### Button 1: RTC Configure Button
 
 - This button is used to toggle between different user interfaces on LCD to set the clock, calendar and alarm. 
@@ -178,6 +182,10 @@ The system is controlled and configured using 4 push buttons each of them having
 
 The main interface displays following characteristics,
 
+<p align="center">
+	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/304c997a-32ab-4c43-8d0e-97835844d7e4" width="50%" height="50%">
+</p>
+
 - Clock mode which displays either **'24h>'** in 24h format or **'am/pm'** in 12h format.
 - Ticking time in **'hh:mm:ss'** format.
 - Calendar in **'day dd/mm'** format.
@@ -190,9 +198,17 @@ The main interface displays following characteristics,
 - This interface enables the user to set the hours and mins value.
 - If the clock mode is 12h then there is an option to toggle between am/pm.
 
+<p align="center">
+	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/4a44e84c-70d4-4710-87c8-ed2a73f9ea92" width="90%" height="90%">
+</p>
+
 #### Set Calendar
 
 - This interface enables the user to set the day, date and week.
+  
+<p align="center">
+	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/9aff9f1a-95de-4e3c-90bd-9a02846f5f4a" width="80%" height="80%">
+</p>
 
 #### Set Alarm
 
@@ -200,10 +216,18 @@ The main interface displays following characteristics,
 - If the clock mode is 12h then there is an option to toggle between am/pm.
 - It remembers the previous set values enabling the user to know the exact time the alarm is set on.
 
+<p align="center">
+	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/9aff9f1a-95de-4e3c-90bd-9a02846f5f4a" width="80%" height="80%">
+</p>
+
 ## Alarm Implementation
 
 - To indicate the alarm, a buzzer and led is integrated which toggles on and off every second until the alarm stops.
 - The alarm will stop automatically after 30sec or it can be stopped manually by using the dedicated push button.
+
+<p align="center">
+	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/9aff9f1a-95de-4e3c-90bd-9a02846f5f4a" width="80%" height="80%">
+</p>
 
 # Working 
 
