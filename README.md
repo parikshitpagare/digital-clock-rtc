@@ -17,6 +17,10 @@ A digital clock and calendar with alarm functionality developed on STM32F401 (AR
 	<img src="https://github.com/parikshitpagare/digital-clock-rtc/assets/80714882/9aff9f1a-95de-4e3c-90bd-9a02846f5f4a" width="80%" height="80%">
 </p>
 
+# Demo
+
+- YouTube - [https://youtu.be/AXyXmcp8b5Q](https://youtu.be/AXyXmcp8b5Q)
+
 # Features
 
 - 4 Push buttons to configure and control the system.
